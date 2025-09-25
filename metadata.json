@@ -1,0 +1,5 @@
+{
+  "name": "Copy of React Issue Tracker",
+  "description": "A simple yet powerful issue tracking application built with React and TypeScript. It allows users to view, search, filter, sort, create, and update issues with a clean and intuitive user interface.",
+  "requestFramePermissions": []
+}
