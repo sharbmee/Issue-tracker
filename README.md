@@ -4,7 +4,7 @@ A simple yet powerful issue tracking application built with React, TypeScript, a
 
 
 ## 🌍 Live Demo
-Check out the deployed app on Vercel: [React Issue Tracker](https://your-vercel-project.vercel.app)
+Check out the deployed app on Vercel: [React Issue Tracker](https://issue-tracker-blond-tau.vercel.app/)
 
 ## ✨ Features
 
@@ -71,7 +71,7 @@ src
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/react-issue-tracker.git
+   git clone https://github.com/sharbmee/Issue-tracker
    cd react-issue-tracker
 ````
 
@@ -87,7 +87,7 @@ src
    npm run dev
    ```
 
-The application should now be running on `http://localhost:5173` (or another port if 5173 is in use).
+The application should now be running on `http://localhost:3000/` (or another port if 5173 is in use).
 
 ## 💡 How It Works
 
